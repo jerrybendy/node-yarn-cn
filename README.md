@@ -12,6 +12,6 @@ There is `yarn` and `pm2` pre-installed. You can use it directly.
 ## Usage
 
 ```
-docker pull jerrybendy/node-yarn-cn
+docker pull daocloud.io/jerrybendy/node-yarn-cn
 ```
 
